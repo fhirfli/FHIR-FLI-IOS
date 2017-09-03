@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ProfileController.(checkYesterday(String, callback : () -&gt; ()) -&gt; ()).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json.rawArray()">
+            </PersistentString>
+            <PersistentString
+               value = "yesterdayStepsDate">
+            </PersistentString>
+            <PersistentString
+               value = "json.rawString==&quot;&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;code&quot;][&quot;coding&quot;][0][&quot;display&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;subject&quot;][&quot;reference&quot;].rawString()">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;valueQuantity&quot;][&quot;value&quot;].rawString()">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RegisterController.(getuuid(() -&gt; ()) -&gt; ()).(closure #1):RegisterController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.identif">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(sync(AnyObject) -&gt; ()).(closure #3):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ok">
+            </PersistentString>
+            <PersistentString
+               value = "self.todayActiveEnergy">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(sync(AnyObject) -&gt; ()).(closure #2):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ok">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(checkYesterday(String, date : String, callback : () -&gt; ()) -&gt; ()).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;valueQuantity&quot;][&quot;value&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;total&quot;].rawNumber()">
+            </PersistentString>
+            <PersistentString
+               value = "self.yesterdayActiveEnergyDate">
+            </PersistentString>
+            <PersistentString
+               value = "self.ok">
+            </PersistentString>
+            <PersistentString
+               value = "date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(sync(AnyObject) -&gt; ()).(closure #4):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ok">
+            </PersistentString>
+            <PersistentString
+               value = "self.ok ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RegisterController.(saveToNode() -&gt; ()).(closure #1):RegisterController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.uuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.deleteObs(String, callback : () -&gt; ()) -&gt; ():ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "uuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(checkToday(String) -&gt; ()).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ok_today">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.sendData(String, snomedCode : String, observationDisplay : String, observationValue : String, observationUnit : String) -&gt; ():ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(getActiveEnergy() -&gt; ()).(closure #1).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "activity.startDate">
+            </PersistentString>
+            <PersistentString
+               value = "self.todayActiveEnergy">
+            </PersistentString>
+            <PersistentString
+               value = "activity.quantity.doubleValueForUnit(HKUnit.kilocalorieUnit()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.sync(AnyObject) -&gt; ():ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ok_today">
+            </PersistentString>
+            <PersistentString
+               value = "self.todayActiveEnergy">
+            </PersistentString>
+            <PersistentString
+               value = "self.yesterdayStepsDate">
+            </PersistentString>
+            <PersistentString
+               value = "self.yesterdayActiveEnergyDate">
+            </PersistentString>
+            <PersistentString
+               value = "self.ok">
+            </PersistentString>
+            <PersistentString
+               value = "self.yesterdayStepsValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(getObs() -&gt; ()).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;valueQuantity&quot;][&quot;value&quot;].string">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;valueQuantity&quot;][&quot;value&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(getObs(JSON) -&gt; ()).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;subject&quot;][&quot;reference&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;subject&quot;][&quot;reference&quot;] == aux">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;code&quot;][&quot;coding&quot;][0][&quot;display&quot;].rawString">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;code&quot;][&quot;coding&quot;][0][&quot;display&quot;].rawString == concept">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RegisterController.(getuuid(() -&gt; ()) -&gt; ()).(closure #1).(closure #1):RegisterController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(json[&quot;entry&quot;][0][&quot;resource&quot;][&quot;id&quot;])">
+            </PersistentString>
+            <PersistentString
+               value = "self.uuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RegisterController.(getuuid(AnyObject) -&gt; ()).(closure #1):RegisterController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.identif">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileController.(checkYesterday(String, date : String, value : Double, callback : () -&gt; ()) -&gt; ()).(closure #1):ProfileController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+            <PersistentString
+               value = "self.yesterdayStepsDate">
+            </PersistentString>
+            <PersistentString
+               value = "Double(json[&quot;entry&quot;][i][&quot;resource&quot;][&quot;valueQuantity&quot;][&quot;value&quot;].rawString()!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

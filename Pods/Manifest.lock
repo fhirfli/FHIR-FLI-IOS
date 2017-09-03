@@ -1,0 +1,104 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FacebookCore (0.1.1):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.14)
+  - FacebookLogin (0.1.1):
+    - Bolts (~> 1.8)
+    - FacebookCore
+    - FBSDKCoreKit (~> 4.14)
+    - FBSDKLoginKit (~> 4.14)
+  - FacebookShare (0.1.1):
+    - Bolts (~> 1.8)
+    - FacebookCore
+    - FBSDKCoreKit (~> 4.14)
+    - FBSDKShareKit (~> 4.14)
+  - FBSDKCoreKit (4.14.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.14.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.14.0):
+    - FBSDKCoreKit
+  - FirebaseAnalytics (3.5.1):
+    - FirebaseCore (~> 3.4)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleSymbolUtilities (~> 1.1)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.4.4):
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.8)
+  - Google/Core (3.0.3):
+    - FirebaseAnalytics (~> 3.2)
+  - Google/SignIn (3.0.3):
+    - Google/Core
+    - GoogleSignIn (~> 4.0)
+  - GoogleAppUtilities (1.1.2):
+    - GoogleSymbolUtilities (~> 1.1)
+  - GoogleInterchangeUtilities (1.2.2):
+    - GoogleSymbolUtilities (~> 1.1)
+  - GoogleSignIn (4.0.1):
+    - GoogleAppUtilities (~> 1.1)
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleSymbolUtilities (1.1.2)
+  - GoogleToolboxForMac/DebugUtils (2.1.0):
+    - GoogleToolboxForMac/Defines (= 2.1.0)
+  - GoogleToolboxForMac/Defines (2.1.0)
+  - GoogleToolboxForMac/NSData+zlib (2.1.0):
+    - GoogleToolboxForMac/Defines (= 2.1.0)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.0):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.0)
+    - GoogleToolboxForMac/Defines (= 2.1.0)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.0)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.0)
+  - GTMOAuth2 (1.1.4):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.7):
+    - GTMSessionFetcher/Full (= 1.1.7)
+  - GTMSessionFetcher/Core (1.1.7)
+  - GTMSessionFetcher/Full (1.1.7):
+    - GTMSessionFetcher/Core (= 1.1.7)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - FacebookCore
+  - FacebookLogin
+  - FacebookShare
+  - Google/SignIn
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FacebookCore: 14f27add6888c27470d42a100374e6361f4e0f79
+  FacebookLogin: 748f4e621e874da3e0bf63bccf6fd1542c786a1b
+  FacebookShare: ea0370ca0b914eccc42a753abcd937265c17b030
+  FBSDKCoreKit: 6e020b5db0b5bd1e01f5fb0902131befd129a502
+  FBSDKLoginKit: da563567a108050ef83739c8c8c001ee9e25fa13
+  FBSDKShareKit: e8e5d4ccef69b41132fe33acda26db1e33143e33
+  FirebaseAnalytics: 6e58fc9b397664369ac7617fb0ba93fab6ba7b5b
+  FirebaseCore: d0ed25f27b6f9158eccc439f1be6f92e81207e28
+  FirebaseInstanceID: ba1e640935235e5fac39dfa816fe7660e72e1a8a
+  Google: cd92fab98f800f509da88c1e0c570275713bc9d5
+  GoogleAppUtilities: a8a552aa74f6597f805e45b5a3962766c3134973
+  GoogleInterchangeUtilities: d5bc4d88d5b661ab72f9d70c58d02ca8c27ad1f7
+  GoogleSignIn: a8694c0a8e6d1b0ec77c58014de5bfd4ba2fa766
+  GoogleSymbolUtilities: 631ee17048aa5e9ab133470d768ea997a5ef9b96
+  GoogleToolboxForMac: 2b2596cbb7186865e98cadf2b1e262d851c2b168
+  GTMOAuth2: 7fc9c10f5c745f4d9850419ea88889fe3baa6b7d
+  GTMSessionFetcher: a1f8ed39e4fe21c68957daed472c7afbcdf29166
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: b8266845e4a9356272dee2c60791c2eb5371821b
+
+COCOAPODS: 1.2.1
